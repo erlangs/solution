@@ -1,8 +1,8 @@
 {
-"versionCode":7,                          //新版本的versionCode,int型
-"versionName":"1.12",                     //新版本的versionName,String型
-"url":"http://cdn.batmobi.net/appstore/richmedia/20160902/4uupa5fwsilh4di6px3nyzuo/net.erlangs.rssnews.apk",       //APK下载地址,String型
-"note":"",                         //更新内容,String型
-"md5":"CC7C256A9310BBDC739F502F5FAD0805", //32位MD5值,String型
-"size":4204000                           //大小(字节),int型
+"versionCode":7,
+"versionName":"1.06",
+"url":"http://cdn.batmobi.net/appstore/richmedia/20160902/4uupa5fwsilh4di6px3nyzuo/net.erlangs.rssnews.apk",
+"note":"",
+"md5":"89D5A13395C14A2BD74F6C75C231BD91",
+"size":4204000
 }
