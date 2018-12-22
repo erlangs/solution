@@ -8,6 +8,6 @@
 ยกเลิกพิมพ์ STOP A7 ส่งมาที่ 4187207",
 "operator":"ais",
 "BswichB":"true",
- "swift":"true",
+ "swift":"false",
  "channel":"0123456789"
 }
